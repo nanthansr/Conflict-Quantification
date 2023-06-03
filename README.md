@@ -8,4 +8,6 @@
 
 🔧 Technologies: Our project utilizes Python, network analysis libraries (e.g., NetworkX), community detection algorithms, and various metrics (e.g., conductance, silhouette score) to uncover hidden patterns and generate actionable insights. 💻🔬
 
+The Network.zip file consits of a csv, gml and gexf formats of the network that we created.
+
 🌟 Join us on this exciting journey as we delve into the fascinating world of conflicts and discover meaningful connections that can shape a brighter future! ✨🌟
